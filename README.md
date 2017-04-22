@@ -62,3 +62,12 @@ to fit and cropped as necessary.
 Images are drawn behind quickbar in collapsed state so you 
 should avoid to use too bright colors in that area else
 the quickbar images will become hard to see.
+
+## Contributors ##
++ Travis Hall
+
+TODO
+-----
+Show pack properties like type (random, list, time context) and change interval
+when selecting
+
